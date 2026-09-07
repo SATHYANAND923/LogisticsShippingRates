@@ -1,17 +1,42 @@
-# LogisticsShippingRates
-Project Description
+# Logistics Shipping Rates
 
-The Logistics Shipping Rates project is a simple shipping cost calculator designed to calculate the shipping cost of a package based on its weight and the shipping rate per kilogram.
+## Project Name
 
-#Features
-Calculate shipping cost based on package weight.
-Accept shipping rate per kilogram as input.
-Display the calculated shipping cost in USD.
-Simple and easy-to-use Python program.
-Factors Affecting Shipping Costs
+**Logistics Shipping Rates**
 
-#The main factors that contribute to shipping costs include:
+## Project Description
 
-Package Weight: The weight of the package affects the total shipping cost.
-Shipping Rate: The shipping rate per kilogram determines the cost charged for each kilogram.
-Shipping Cost: The total shipping cost is calculated based on the package weight and shipping rate.
+Logistics Shipping Rates is a project that provides a simple calculator for calculating shipping costs based on package information.
+
+## Project Purpose
+
+The purpose of this project is to develop a simple and easy-to-use calculator that helps users calculate shipping costs.
+
+## Features
+
+* Calculate shipping costs.
+* Accept user input.
+* Provide the calculated result.
+* Simple and easy-to-use interface.
+
+## Technologies Used
+
+* Bash
+* Git
+* GitHub
+
+## Project Files
+
+* `README.md` – Contains information about the project.
+* `LICENSE` – Contains the Apache License 2.0.
+* `CODE_OF_CONDUCT.md` – Contains guidelines for maintaining a respectful project community.
+* `CONTRIBUTING.md` – Contains contribution guidelines.
+* `simple-interest.sh` – Bash script for calculating simple interest.
+
+## Contribution
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+## License
+
+This project is licensed under the Apache License 2.0.
