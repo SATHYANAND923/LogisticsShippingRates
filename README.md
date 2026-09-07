@@ -1,42 +1,25 @@
-# Logistics Shipping Rates
+# Simple Interest Calculator
 
-## Project Name
+This project is a Simple Interest Calculator implemented using Bash.
 
-**Logistics Shipping Rates**
+## Description
 
-## Project Description
+The program calculates simple interest based on:
 
-Logistics Shipping Rates is a project that provides a simple calculator for calculating shipping costs based on package information.
+- Principal amount
+- Rate of interest
+- Time period
 
-## Project Purpose
+## Formula
 
-The purpose of this project is to develop a simple and easy-to-use calculator that helps users calculate shipping costs.
+Simple Interest = (Principal × Rate × Time) / 100
 
-## Features
+## Usage
 
-* Calculate shipping costs.
-* Accept user input.
-* Provide the calculated result.
-* Simple and easy-to-use interface.
+Run the `simple-interest.sh` script and enter:
 
-## Technologies Used
+1. Principal amount
+2. Rate of interest
+3. Time period
 
-* Bash
-* Git
-* GitHub
-
-## Project Files
-
-* `README.md` – Contains information about the project.
-* `LICENSE` – Contains the Apache License 2.0.
-* `CODE_OF_CONDUCT.md` – Contains guidelines for maintaining a respectful project community.
-* `CONTRIBUTING.md` – Contains contribution guidelines.
-* `simple-interest.sh` – Bash script for calculating simple interest.
-
-## Contribution
-
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
-
-## License
-
-This project is licensed under the Apache License 2.0.
+The program then displays the calculated simple interest.
